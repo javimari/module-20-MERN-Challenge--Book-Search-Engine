@@ -6,27 +6,17 @@
   Search-Engine-for-Books
   
   ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
+
   - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
-  
-  ## Installation
-  
-  
-  ## Usage
-  
+
   
   ## License
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. // Include the license section
   
   ## Contributing
   add and improve code
-  
-  ## Tests
-  
   
   ## Questions
   If you have any questions, feel free to reach out:
